@@ -17,8 +17,8 @@ No bloat.
 Simply Snow.
 
 == Installation ==
-1. Upload \"simply-snow\" to the \"/wp-content/plugins/\" directory.
-1. Activate the plugin through the \"Plugins\" menu in WordPress.
+1. Upload "simply-snow" to the "/wp-content/plugins/" directory.
+1. Activate the plugin through the "Plugins" menu in WordPress.
 
 == Frequently Asked Questions ==
 = Does this plugin make it snow outsite? =
