@@ -1,3 +1,7 @@
+# (Deprecated)
+
+This repository is no longer maintained and will be removed on 2017-01-01.
+
 Simply Snow
 ===========
 
